@@ -4,7 +4,7 @@ from groq import Groq
 # 1. Page Configuration
 st.set_page_config(page_title="Ibadat AI Assistant", page_icon="🎓", layout="centered")
 
-st.title("🎓 Ibadat AI Assistant")
+st.title("🎓 IIUI English AI Assistant")
 st.info("Ask me about your English, assignments, or general questions!")
 
 # 2. Access Secret API Key (From Streamlit Secrets Cloud)
@@ -88,3 +88,4 @@ with st.sidebar:
         mime="text/plain"
 
     )
+
