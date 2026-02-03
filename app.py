@@ -5,7 +5,7 @@ from groq import Groq
 st.set_page_config(page_title="Ibadat AI Assistant", page_icon="🎓", layout="centered")
 
 st.title("🎓 Ibadat AI Assistant")
-st.info("Ask me about your courses, assignments, or general knowledge!")
+st.info("Ask me about your English, assignments, or general questions!")
 
 # 2. Access Secret API Key (From Streamlit Secrets Cloud)
 # This replaces the manual text input for a better user experience
@@ -86,4 +86,5 @@ with st.sidebar:
         data=chat_text,
         file_name="english_lesson.txt",
         mime="text/plain"
+
     )
