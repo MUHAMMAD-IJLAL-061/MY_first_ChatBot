@@ -75,11 +75,8 @@ Responses are streamed token-by-token for a realistic typing effect.
 
 Students can download their full conversation as a lesson summary.
 
-📸 Screenshots (Optional but Recommended)
+<img width="420" height="576" alt="image" src="https://github.com/user-attachments/assets/7b2b8869-8b7a-476d-8f3d-e4f865de1b1a" />
 
-You can add:
-
-<img width="1362" height="634" alt="image" src="https://github.com/user-attachments/assets/f86baa5a-6877-4107-991d-fa8c1bf830ca" />
 
 
 🌱 Future Improvements
