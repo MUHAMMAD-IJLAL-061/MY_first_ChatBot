@@ -54,6 +54,7 @@ pip install streamlit groq
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/MyFirstChatbot.git
 cd MyFirstChatbot
+
 2️⃣ Add API Key (Important)
 
 If using Streamlit Cloud, add this in Secrets:
@@ -78,13 +79,8 @@ Students can download their full conversation as a lesson summary.
 
 You can add:
 
-Chat interface screenshot
+<img width="1362" height="634" alt="image" src="https://github.com/user-attachments/assets/f86baa5a-6877-4107-991d-fa8c1bf830ca" />
 
-Sidebar with download option
-
-Example conversation
-
-(Highly recommended for GitHub visibility)
 
 🌱 Future Improvements
 
